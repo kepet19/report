@@ -1,6 +1,6 @@
 # Vejlederaftale
 
-- Der skal laves en gennemgang og dagsorden til hvert vejledermøde. Det skal sendes til vejleder senest fredag kl. 23.59 (aftal med Henrik)
+- Der skal laves en gennemgang og dagsorden til hvert vejledermøde. Det skal sendes til vejleder senest fredag kl. 23.59.
 
 - Alt skal så vidt muligt holdes i GitHub.
 
