@@ -1,31 +1,31 @@
-#Foreløbig titel og dato
-**Titel:** Creditz4u
+# Foreløbig titel og dato
+**Foreløbig titel:** Creditz4u  
 **Afleveringsdato:** 29-05-2020 kl. 12.00 
 
-#Uddannelse
+# Uddannelse
 Softwareteknologi
 
-#Projegruppe og vejleder
-**Gruppenummer:** 06
+# Projegruppe og vejleder
+**Gruppenummer:** 06  
 **Kontaktoplysninger:** Findes i [gruppekontrakten](gruppekontrakt.md)
 
-#Problemstilling
+# Problemstilling
 
 
-#Faglig og personlig motivation
+# Faglig og personlig motivation
 
 
-#Nuværende viden
+# Nuværende viden
 
 
-#Rammetidsplan
+# Rammetidsplan
 [Rammetidsplan](https://docs.google.com/document/d/1GcyBqYznrnS67T8T1zZoPxFWeUDLLc6jlVvnFreY6GU/edit)
 
-#Gruppeværktøjer
+# Gruppeværktøjer
 **Gruppeværktøjer:** Se [Gruppekontrakt](gruppekontrakt.md) under afsnittet Værktøjer
 
-#Gruppekontrakt
+# Gruppekontrakt
 [Gruppekontrakt](gruppekontrakt.md)
 
-#Vejlederkontrakt
+# Vejlederkontrakt
 [Vejlederkontrakt](Vejlederkontrakt.md)
