@@ -66,31 +66,45 @@
 - Fildeling
 	- OneDrive
 
-\newpage
+
+## Belbien Teamroller
+
+| Teamrolle     | Navn     | Navn    | Navn  |
+| ---           | ---      | ---     | ---   |
+| Idémand       | Mathias  | Kevin   | Jakob |
+| Kontaktskaber | Kevin    | Kenneth |       |
+| Koordinator   | Kristian |         |       |
+| Opstarter     | Simon    |         |       |
+| Analysator    | Jakob    |         |       |
+| Formidler     | Kevin    |         |       |
+| Organisator   | Kenneth  | Simon   |       |
+| Afslutter     | Kenneth  | Simon   |       |
+| Specialist    | Kristian | Jakob   |       |
+
 ## Kontakt Oplysninger.
 - Kristian Nymann Jakobsen
 	- kjako19@student.sdu.dk
-	- 22 80 53 26 \
+	- 22 80 53 26
 
 
 - Jakob Rasmussen
 	- jakra19@student.sdu.dk
-	- 52 40 56 62 \
+	- 52 40 56 62
 
 
 - Kevin Kamper Meejach Petersen
 	- kepet19@student.sdu.dk
-	- 50 30 88 58 \
+	- 50 30 88 58
 
 
 - Simon Jørgensen
 	- sijo819@student.sdu.dk
-	- 42 83 25 60 \
+	- 42 83 25 60
 
 
 - Mathias Nickolaj Rasmussen
 	- mara816@student.sdu.dk
-	- 28 12 89 41 \
+	- 28 12 89 41
 
 
 - Kenneth Munk Christiansen
