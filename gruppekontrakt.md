@@ -69,17 +69,17 @@
 
 ## Belbien Teamroller
 
-| Teamrolle     | Navn     | Navn    | Navn  |
-| ---           | ---      | ---     | ---   |
-| Idémand       | Mathias  | Kevin   | Jakob |
-| Kontaktskaber | Kevin    | Kenneth |       |
-| Koordinator   | Kristian |         |       |
-| Opstarter     | Simon    |         |       |
-| Analysator    | Jakob    |         |       |
-| Formidler     | Kevin    |         |       |
-| Organisator   | Kenneth  | Simon   |       |
-| Afslutter     | Kenneth  | Simon   |       |
-| Specialist    | Kristian | Jakob   |       |
+| Teamrolle     | Navn     | Navn    | Navn  |         |
+| ---           | ---      | ---     | ---   |         |
+| Idémand       | Mathias  | Kevin   | Jakob | Mathias |
+| Kontaktskaber | Kevin    | Kenneth |       |         |
+| Koordinator   | Kristian | Mathias |       |         |
+| Opstarter     | Simon    | Mathias |       |         |
+| Analysator    | Jakob    |         |       |         |
+| Formidler     | Kevin    |         |       |         |
+| Organisator   | Kenneth  | Simon   |       |         |
+| Afslutter     | Kenneth  | Simon   |       |         |
+| Specialist    | Kristian | Jakob   |       |         |
 
 ## Kontakt Oplysninger.
 - Kristian Nymann Jakobsen
