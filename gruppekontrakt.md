@@ -38,7 +38,7 @@
 
 ## Vejleder møde
 - Der holdes vejleder møde hver eneste uge
-- Der sendes senest en møde indkaldelse med lokale, link til dagsorden, samt materialer, via outlook til vejlederen senest XX.XX
+- Der sendes senest en møde indkaldelse med lokale, link til dagsorden, samt materialer, via outlook til vejlederen senest senest 23.59 Fredag.
 
 ## Kursus deltagelse
 - Det forvenetes af hver gruppemedlem har læst op og fået styr på de emmer, vi arbejder med, inden møderne og arbejdsdagene.
