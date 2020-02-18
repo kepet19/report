@@ -70,7 +70,7 @@
 ## Belbien Teamroller
 
 | Teamrolle     | Navn     | Navn    | Navn  |         |
-| ---           | ---      | ---     | ---   |         |
+| ---           | ---      | ---     | ---   | ---     |
 | Idémand       | Mathias  | Kevin   | Jakob | Mathias |
 | Kontaktskaber | Kevin    | Kenneth |       |         |
 | Koordinator   | Kristian | Mathias |       |         |
@@ -80,6 +80,7 @@
 | Organisator   | Kenneth  | Simon   |       |         |
 | Afslutter     | Kenneth  | Simon   |       |         |
 | Specialist    | Kristian | Jakob   |       |         |
+
 
 ## Kontakt Oplysninger.
 - Kristian Nymann Jakobsen
