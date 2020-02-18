@@ -9,5 +9,5 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@master
         with:
-          root_file: main.tex
+          root_file: report.tex
           args: -pdf -file-line-error -interaction=nonstopmode -shell-escape
