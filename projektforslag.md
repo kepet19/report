@@ -14,14 +14,20 @@ Softwareteknologi
 
 
 
+
 # Faglig og personlig motivation
 Motivation er at Vi vil ikke bare lave minimus kravet, da der er en støre personlig interesse for at lave et større system, der afspejler det system som projekt casen har lagt op til
 og kunne være en interesse for TV2.
+hvad kan vi få ud af det
+fx. farveligt
+
 
 
 # Nuværende viden
 TV2 efterspørg en løsning der gør de kan cutte de ruller testker der kommer efter en film eller linged og derved få ekstra 30 sekunder visning af reklamer.
-
+Administrator 	(se/redigere/oprette og slette bruger)
+TV2 brugere 	(se/redigere)
+Bruger der kan 	(se)
 
 
 # Rammetidsplan
