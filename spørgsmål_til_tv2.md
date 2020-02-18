@@ -1,5 +1,5 @@
 # Spørgsmål
 
-- Hvad omhandler RPG? kan vi få noget data på det?
-- hvad skal der være af bruger systemer / til fx. måske skal systemet være størrer.
+- Hvad omhandler EPG? kan vi få noget data på det?
+- hvad skal der være af brugerer hvis vi nu siger systemet kunne intergeraes med andre system. fx yousee skulle kunne trække nogle data ud. 
 - Hvilke rettigheder, / hvordan skal det vises som en link eller?.
