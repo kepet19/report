@@ -19,7 +19,7 @@ Systemet indeholder forskellige brugerroller:
   * Kan redigere, oprette - samt slette krediteringstekster.
 - Bruger
   * Kan redigere samt oprette krediteringstekster.
-- Gæst (ikke authentikeret)
+- Gæst (ikke autentificeret)
   * Kan se krediteringstekster for programmer.
 
 Systemet består af forskellige programmer:
