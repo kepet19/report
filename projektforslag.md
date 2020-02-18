@@ -10,25 +10,27 @@ Softwareteknologi
 **Kontaktoplysninger:** Findes i [gruppekontrakten](gruppekontrakt.md)
 
 # Problemstilling
-![system drawing](https://cdn.discordapp.com/attachments/673822129946361859/674706669921632256/TV2-Credits-Management.png)
-Vores system afspejler det system TV2 har lagt op til i projekt-casen. Der er tale om et system hvor man kan se - og redigere krediteringstekster for programmer.
-Systemet indeholder forskellige bruger roller:
+![system drawing](https://cdn.discordapp.com/attachments/673822129946361859/674706669921632256/TV2-Credits-Management.png)  
+
+
+Systemet afspejler det system TV2 har lagt op til i projekt-casen. Der er tale om et system, hvor man kan se - og redigere krediteringstekster for programmer.  
+Systemet indeholder forskellige brugerroller:
 - Administrator
   * Kan redigere, oprette - samt slette krediteringstekster.
 - Bruger
   * Kan redigere samt oprette krediteringstekster.
 - Gæst (ikke authentikeret)
-  * Kan se krediterikstekster for programmer.
+  * Kan se krediteringstekster for programmer.
 
 Systemet består af forskellige programmer:
 - EPG Poller (should have)
-  * Henter data fra Electronic Program Guide (EPG) og indsætter nye programmer i vores database via REST API'et, der gør at brugerer ikke skal oprette programmet, men blot tilføje krediteringstekster.
+  * Henter data fra Electronic Program Guide (EPG) og indsætter nye programmer i vores database via REST API'et, der gør at brugere ikke skal oprette programmet, men blot tilføje krediteringstekster.
 - Desktop Client (must have)
   * Brugergrænseflade, der gør det let at se, søge, redigere samt slette krediteringstekster for programmer.
 - Rest API (must have)
-  * Api'et binder alle de andre programmer sammen, ved at udbyde nogle endpoints der gør det muligt at foretage alle aktionerne beskrevet i de andre programmer.
+  * Api'et binder alle andre programmer sammen, ved at udbyde endpoints, der muliggører at foretage alle aktioner beskrevet i systemets andre programmer.
 - Website (nice to have)
-  * Brugergrænseflade som beskrevet i *Desktop Client* men som website i stedet for, da det vil afspejle den løsning TV2 nok vil bruge i sidste ende.
+  * Brugergrænseflade som beskrevet i *Desktop Client* men som website, da det vil afspejle den løsning TV2 nok vil bruge i sidste ende.
   
 Dette er implementeret via et REST API, som er den applikation der styrer vores business logic. For at gøre systemet brugervenligt, laves en dekstop client (GUI). 
 
