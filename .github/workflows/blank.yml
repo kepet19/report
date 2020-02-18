@@ -1,17 +1,13 @@
-name: CI
-
+name: Build LaTeX document
 on: [push]
-
 jobs:
-  build:
-
+  build_latex:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
-        sudo apt-get install texlive-latex-extra,
-        pdflatex --shell-escape report.tex
+      - name: Set up Git repository
+        uses: actions/checkout@v1
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@master
+        with:
+          root_file: main.tex
+          args: -pdf -file-line-error -interaction=nonstopmode -shell-escape
