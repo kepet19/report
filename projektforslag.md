@@ -15,7 +15,7 @@ Softwareteknologi
 
 
 # Faglig og personlig motivation
-Motivation er. Vi vil ikke bare lave minimus kravet, da der er en støre personlig interesse for at lave et større system, der afspejler det system som projekt casen har lagt op til
+Motivation er at Vi vil ikke bare lave minimus kravet, da der er en støre personlig interesse for at lave et større system, der afspejler det system som projekt casen har lagt op til
 og kunne være en interesse for TV2.
 
 
