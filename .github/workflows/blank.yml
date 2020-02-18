@@ -13,5 +13,5 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |
-        echo Add other actions to build,
+        apt-get install texlive-latex-base,
         pdflatex --shell-escape report.tex
